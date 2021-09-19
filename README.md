@@ -1,8 +1,8 @@
 # Hi there, I'm Aakash Kc 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashkcx&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakashkcx&count_private=true&show_icons=true&theme=onedark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashkcx&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashkcx&layout=compact&theme=onedark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
