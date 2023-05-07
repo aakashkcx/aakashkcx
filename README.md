@@ -1,4 +1,4 @@
-# Hi there, I'm Aakash Kc 👋
+# Hi there, I'm Aakash! 👋
 
 [Click here to go to my personal website!](https://aakashkcx.github.io/)
 
